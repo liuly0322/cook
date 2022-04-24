@@ -1,0 +1,12 @@
+__pycache__/
+backend/sql_app.db
+
+frontend/src/data/recipe.json
+frontend/.vite-ssg-dist
+frontend/.vite-ssg-temp
+*.local
+frontend/dist
+frontend/dist-ssr
+frontend/node_modules
+frontend/.idea/
+*.log
