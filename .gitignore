@@ -1,5 +1,6 @@
 __pycache__/
 backend/sql_app.db
+backend/venv
 
 frontend/src/data/recipe.json
 frontend/.vite-ssg-dist
